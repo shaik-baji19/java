@@ -5,7 +5,7 @@ public class StringDemo
  public static void main(String args[])
   {
     String s1="Welcome";
-    char ch[]={'R','E','K','H','A'};
+    char ch[]={'B','A','J','I'};
     String s2=new String(ch);
     String s3=new String("Example");
     System.out.println("String s1 is  " +s1);
